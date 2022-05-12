@@ -1,2 +1,2 @@
 # git-actions-poc
-PoC showing how to use git actions.
+PoC showing how to use git actions
