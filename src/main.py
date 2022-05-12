@@ -17,4 +17,5 @@ def main(location, zone):
         area_zone(zone)
 
 if __name__ == "__main__":
+    print("Running")
     main()
