@@ -1,12 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="timechecker",
+    name="git-actions-poc",
     version="0.0.1",
-    author="Edidiong Etuk",
-    author_email="edeediong@gmail.com",
-    url="https://bit.ly/edeediong-resume",
-    description="An application that informs you of the time in different locations and timezones",
+    author="Gishan Don Ranasinghe",
+    author_email="gishan.ranasinghe@@gsscogs.uk",
+    description="Git actions test poc",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -14,5 +13,5 @@ setup(
         "Operating System :: OS Independent",
     ],
     install_requires=["click", "pytz"],
-    entry_points={"console_scripts": ["timechecker = src.main:main"]},
+    entry_points={"console_scripts": ["git-actions-poc = src.main:main"]},
 )
