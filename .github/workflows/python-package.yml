@@ -3,6 +3,7 @@ name: Publish Python distributions to PyPI and TestPyPI.
 on:
   create:
     branches:
+      - "*"
   push:
     branches:
       - main
