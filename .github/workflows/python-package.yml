@@ -1,10 +1,10 @@
-name: Publish Python distributions to PyPI and TestPyPI
+name: Publish Python distributions to PyPI and TestPyPI.
 
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 jobs:
   build-n-publish:
