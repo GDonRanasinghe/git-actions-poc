@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="git-actions-poc",
-    version="0.0.2",
+    version="0.0.3",
     author="Gishan Don Ranasinghe",
     author_email="gishan.ranasinghe@gsscogs.uk",
     description="Git actions test poc",
