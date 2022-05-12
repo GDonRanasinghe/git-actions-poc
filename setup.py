@@ -4,7 +4,7 @@ setup(
     name="git-actions-poc",
     version="0.0.1",
     author="Gishan Don Ranasinghe",
-    author_email="gishan.ranasinghe@@gsscogs.uk",
+    author_email="gishan.ranasinghe@gsscogs.uk",
     description="Git actions test poc",
     packages=find_packages(),
     classifiers=[
